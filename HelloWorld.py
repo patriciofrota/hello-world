@@ -1,5 +1,5 @@
-def funcao_hello_world(mensagem):
+def imprime_mensagem(mensagem):
   print(mensagem)
 
 if __name__ == '__main__':
-  funcao_hello_world('Hello World')
+  imprime_mensagem('Hello World')
